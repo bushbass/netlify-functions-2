@@ -11,7 +11,7 @@ export default function App() {
         <input name="name" />
       </label>
       <button class="button" type="submit">
-        Say hello!
+        Say helloo!
       </button>
     </form>
   );
